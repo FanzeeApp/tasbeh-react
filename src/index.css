@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+}
+
+.tasbeh-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.tasbeh-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.tasbeh-counter {
+  font-size: 48px;
+  font-weight: bold;
+  margin: 20px 0;
+}
+
+.tasbeh-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.tasbeh-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+}
+
+.tasbeh-button:hover {
+  background-color: #e0e0e0;
+}
